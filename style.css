@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: #2b2929;
+    padding: 0.5rem;
+}
+
+
+
+
+h1, h2{
+    background-color: #fd8905;
+    padding: 10px;
+    color: #fff;
+}
+
+
+h1{
+    margin: 0px;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+ol, ul{
+    line-height: 40px;
+}
