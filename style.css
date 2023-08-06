@@ -6,13 +6,11 @@ body{
     padding: 0.5rem;
 }
 
-
 h1, h2{
     background-color: #fd8905;
     padding: 10px;
     color: #fff;
 }
-
 
 h1{
     margin: 0px;
@@ -24,4 +22,9 @@ h1{
 
 ol, ul{
     line-height: 40px;
+}
+
+footer{
+    margin-top: 90px;
+    text-align: center;
 }
